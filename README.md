@@ -1,2 +1,3 @@
 # new-blog
-my first repository
+my very first repository
+Am currently learning laravel
